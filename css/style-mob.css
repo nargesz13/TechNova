@@ -28,7 +28,7 @@ main {
 .up-icon{
   color: #1381CE;
   position: fixed;
-  top: 85vh;
+  bottom: 2rem ;
   left: 2rem;
   z-index: 10;
   opacity: 0.7;
