@@ -535,6 +535,21 @@ footer {
 }
 /* --------------------------------------------media---------------------------------------- */
 @media screen and (max-width: 767.99px) {
+  .content-about {
+    width: 80%;
+  }
+  .content-services {
+    width: 80%;
+  }
+  .content-portfolio {
+    width: 80%;
+  }
+  .content-contact {
+    width: 80%;
+  }
+  .footer-section {
+    width: 80%;
+  }
   .services-section,
   .portfolio-section,
   .contact-section {
@@ -607,6 +622,21 @@ footer {
   }
 }
 @media screen and (max-width: 479.99px) {
+  .content-about {
+    width: 80%;
+  }
+  .content-services {
+    width: 90%;
+  }
+  .content-portfolio {
+    width: 90%;
+  }
+  .content-contact {
+    width: 90%;
+  }
+  .footer-section {
+    width: 90%;
+  }
   .services-section,
   .portfolio-section,
   .contact-section {
@@ -632,11 +662,5 @@ footer {
   }
   .ul-social {
     gap: 0.5rem;
-  }
-  .font-14 {
-    font-size: 12px;
-  }
-  .font-12 {
-    font-size: 10px;
   }
 }
