@@ -21,6 +21,17 @@ body {
 main {
   /* overflow: hidden; */
 }
+.up-icon{
+  color: #1381CE;
+  position: fixed;
+  top: 88vh;
+  left: 2vw;
+  z-index: 10;
+  opacity: 0.7;
+}
+.up-icon:hover{
+  opacity: 1;
+}
 .bg-blue {
   background-color: var(--middle-blue);
   color: var(--used-white);
